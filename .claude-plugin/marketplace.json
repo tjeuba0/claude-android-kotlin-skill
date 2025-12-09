@@ -7,8 +7,7 @@
       "name": "android-kotlin-banking-dev-full",
       "description": "Senior Android developer skill with full CLAUDE.md guidelines, FDS, responsive UI, security.",
       "version": "1.0",
-      "path": "./android-kotlin-banking-dev-full",
-      "icon": "android-icon.png"  // Optional: Add icon file ở root nếu có
+      "path": "./android-kotlin-banking-dev-full"
     }
   ]
 }
