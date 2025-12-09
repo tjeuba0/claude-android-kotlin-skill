@@ -11,8 +11,8 @@
       "description": "Senior Android developer skill with full CLAUDE.md guidelines, FDS from Figma dev mode, responsive UI, security, offline sync.",
       "version": "1.0",
       "source": {
-        "type": "git",
-        "url": "https://github.com/tjeuba0/claude-android-kotlin-skill"
+        "source": "github",
+        "repo": "tjeuba0/claude-android-kotlin-skill"
       },
       "category": "development",
       "tags": ["android", "kotlin", "compose", "fds", "mvvm"]
