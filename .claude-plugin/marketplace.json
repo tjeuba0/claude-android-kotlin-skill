@@ -1,0 +1,14 @@
+{
+  "name": "Android Kotlin Banking Skills Marketplace",
+  "description": "Custom skills for Android Kotlin dev with FDS, MVVM, Hilt, and MCP routing.",
+  "version": "1.0",
+  "plugins": [
+    {
+      "name": "android-kotlin-banking-dev-full",
+      "description": "Senior Android developer skill with full CLAUDE.md guidelines, FDS, responsive UI, security.",
+      "version": "1.0",
+      "path": "./android-kotlin-banking-dev-full",
+      "icon": "android-icon.png"  // Optional: Add icon file ở root nếu có
+    }
+  ]
+}
