@@ -1,13 +1,22 @@
 {
-  "name": "Android-Kotlin-Banking-Skills-Marketplace",
-  "description": "Custom skills for Android Kotlin dev with FDS, MVVM, Hilt, and MCP routing.",
+  "name": "claude-android-kotlin-skill",
+  "description": "Custom marketplace for Android Kotlin banking dev skills with FDS, MVVM, Hilt, MCP, and responsive UI.",
   "version": "1.0",
+  "owner": {
+    "name": "tjeuba0",
+    "email": "your-email@example.com"  // Optional, nhưng thêm cho full
+  },
   "plugins": [
     {
       "name": "android-kotlin-banking-dev-full",
-      "description": "Senior Android developer skill with full CLAUDE.md guidelines, FDS, responsive UI, security.",
+      "description": "Senior Android developer skill with full CLAUDE.md guidelines, FDS from Figma dev mode, responsive UI, security, offline sync.",
       "version": "1.0",
-      "path": "./android-kotlin-banking-dev-full"
+      "source": {
+        "type": "git",
+        "url": "https://github.com/tjeuba0/claude-android-kotlin-skill.git"
+      },
+      "category": "development",
+      "tags": ["android", "kotlin", "compose", "fds", "mvvm"]
     }
   ]
 }
